@@ -1,1 +1,1 @@
-# TestThemeSkeleton module for Magento 2
+# TestThemeSkeleton theme for Magento 2

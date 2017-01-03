@@ -1,6 +1,6 @@
 <?php
 /**
- * TestThemeSkeleton module for Magento
+ * TestThemeSkeleton theme for Magento
  *
  * @package     Yireo_TestThemeSkeleton
  * @author      Yireo (https://www.yireo.com/)
@@ -11,7 +11,7 @@
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
-    ComponentRegistrar::MODULE,
+    ComponentRegistrar::THEME,
     'Yireo_TestThemeSkeleton',
     __DIR__
 );

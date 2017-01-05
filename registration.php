@@ -12,6 +12,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::THEME,
-    'Yireo_TestThemeSkeleton',
+    'frontend/Yireo/TestThemeSkeleton',
     __DIR__
 );

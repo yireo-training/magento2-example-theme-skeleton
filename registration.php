@@ -10,8 +10,9 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
+$themeDir = basename(__DIR__);
 ComponentRegistrar::register(
     ComponentRegistrar::THEME,
-    'frontend/Yireo/'.__DIR__,
+    'frontend/Yireo/'.$themeDir,
     __DIR__
 );

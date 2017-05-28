@@ -1,8 +1,8 @@
 <?php
 /**
- * TestThemeSkeleton theme for Magento
+ * ExampleThemeSkeleton theme for Magento
  *
- * @package     Yireo_TestThemeSkeleton
+ * @package     Yireo_ExampleThemeSkeleton
  * @author      Yireo (https://www.yireo.com/)
  * @copyright   Copyright 2017 Yireo (https://www.yireo.com/)
  * @license     OSL
